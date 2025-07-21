@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlxZG50bTlyZ2o2Nzk3ajgzZnJuczl6ZWJmMm9pb2hnbmZseXJpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="GIF Lofi Coder">
+  <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding.gif" width="300" alt="Dev animado" />
 </p>
+
 
 <h1 align="center">Olá, eu sou <a href="https://github.com/jftigre">João Tigre</a>! 🐯</h1>
 

@@ -68,20 +68,4 @@
 
 ---
 
-## 📈 Métricas do GitHub
-
-<div align="center">
-  <a href="https://github.com/jftigre">
-  <img src="https://github-readme-stats.vercel.app/api?username=jftigre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  </a>
-  <br/>
-  <a href="https://github.com/jftigre">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jftigre&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
-  </a>
-  <br/>
-  <a href="https://github.com/jftigre">
-  <img src="https://streak-stats.demolab.com/?user=jftigre&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
 <br/>

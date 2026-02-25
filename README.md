@@ -1,22 +1,12 @@
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGd0Y2hkb3I1b3lpYzl0YXEzOGd0ZHQzenE1aThyaW8wYWRlaGw4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/joaofelipetigre/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<img align="center" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGd0Y2hkb3I1b3lpYzl0YXEzOGd0ZHQzenE1aThyaW8wYWRlaGw4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jftigre.jftigre&left_color=darkgreen"  />
+  <a href="https://www.linkedin.com/in/joaofelipetigre/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -32,9 +22,9 @@ Atualmente construindo aplicações práticas como sistemas de autenticação e 
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">Linguagens e Tecnologias</h3>
 
-#### 🌐 Frontend
+####  Frontend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="45" alt="html5 logo" />
   <img width="12" />
@@ -51,4 +41,3 @@ Atualmente construindo aplicações práticas como sistemas de autenticação e 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="45" alt="sqlalchemy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="4

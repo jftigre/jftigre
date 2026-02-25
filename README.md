@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">👨‍💻 Sobre mim</h3>
+<h3 align="left"> Sobre mim</h3>
 
 <p align="left">
 Estudante de <b>Engenharia de Software no IFPB</b>. <br>
@@ -23,13 +23,13 @@ Atualmente construindo aplicações práticas como <b>sistemas de autenticação
 
 ###
 
-<h3 align="left">🛠️ Technologies & Skills</h3>
+<h3 align="left"> Technologies & Skills</h3>
 
-| Categoria | Ferramentas e Linguagens |
+| Categoria | Ferramentas e Linguagens (com legendas) |
 | :--- | :--- |
-| **🌐 Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="js" /> |
-| **⚙️ Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="flask" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="35" alt="sqlalchemy" /> |
-| **🗄️ Database** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite" /> <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql" /> |
+| **🌐 Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
+| **⚙️ Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" /> |
+| **🗄️ Database** | <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
 
 ###
 

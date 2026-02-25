@@ -70,7 +70,6 @@ Atualmente construindo aplicações práticas como <b>sistemas de autenticação
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jftigre&theme=dark&hide_border=false&border_radius=5" height="170" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jftigre&layout=compact&theme=dark" height="170" alt="top langs" />
 </div>
 
 </div>

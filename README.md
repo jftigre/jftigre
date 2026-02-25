@@ -18,7 +18,6 @@
 <p align="center">
 Estudante de <b>Engenharia de Software no IFPB</b>. <br>
 Desenvolvedor focado no ecossistema <b>Python</b> e no framework <b>Flask</b>. <br>
-Atualmente construindo aplicações práticas como <b>sistemas de autenticação</b> e <b>APIs de saúde</b>.
 </p>
 
 ###

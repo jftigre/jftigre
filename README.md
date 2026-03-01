@@ -5,7 +5,7 @@
 <br/><br/>
 
 <p align="center">
-  <a href="www.linkedin.com/in/joãofelipefiaritigre" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/jo%C3%A3ofelipefiaritigre/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jftigre.jftigre&left_color=black&right_color=2eff00&left_text=Visitors" height="30" alt="visitor badge" />

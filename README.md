@@ -16,8 +16,7 @@
 <h3 align="center">👨‍💻 Sobre mim</h3>
 
 <p align="center">
-Estudante de <b>Engenharia de Software no IFPB</b>. <br>
-Desenvolvedor focado no ecossistema <b>Python</b> e no framework <b>Flask</b>. <br>
+Estudante de <b>Engenharia de Software no IFPB
 </p>
 
 ###

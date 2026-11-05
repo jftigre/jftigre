@@ -1,96 +1,75 @@
 <div align="center">
 
-<img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGd0Y2hkb3I1b3lpYzl0YXEzOGd0ZHQzenE1aThyaW8wYWRlaGw4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2eff00&height=220&section=header&text=Jo%C3%A3o%20Tigre&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Estudante%20de%20Engenharia%20de%20Software&descSize=20&descAlignY=58&descColor=ffffff" alt="Banner João Tigre" />
 
-<br/><br/>
+<a href="https://github.com/jftigre">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2EFF00&center=true&vCenter=true&width=640&lines=Estudante+de+Engenharia+de+Software+%40+IFPB;Foco+em+Desenvolvimento+Full+Stack;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript+%7C+Python" alt="Typing animation" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3ofelipefiaritigre/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jftigre.jftigre&left_color=black&right_color=2eff00&left_text=Visitors" height="30" alt="visitor badge" />
-</p>
+</div>
 
-###
-
-<h3 align="center">👨‍💻 Sobre mim</h3>
+<h2 align="center">👨‍💻 Sobre mim</h2>
 
 <p align="center">
-Estudante de <b>Engenharia de Software no IFPB</b>. <br>
-Membro da <b>UniSigma Consultoria</b>, atuando na equipe de projetos. <br>
-Foco em <b>Desenvolvimento Full Stack (React, Next.js, Node.js, TypeScript, Python).
+Estudante de <b>Engenharia de Software no IFPB</b>.<br>
+Membro da <b>UniSigma Consultoria</b>, atuando na equipe de projetos.<br>
+Foco em <b>Desenvolvimento Full Stack</b> com React, Next.js, Node.js, TypeScript e Python.
 </p>
 
-###
+<h2 align="center">🛠️ Tecnologias</h2>
 
 <table align="center">
   <tr>
-    <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Technologies" width="25" />
-      <br><b>Technologies</b>
-    </td>
-    <td align="left"><b>⭐️ Skills</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>📱 Front-end</b>
-    </td>
+    <td align="center"><b>📱 Front-end</b></td>
     <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Front-end" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>⚙️ Back-end</b>
-    </td>
+    <td align="center"><b>⚙️ Back-end</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img height="40" src="https://skillicons.dev/icons?i=py,nodejs,ts&theme=dark" alt="Back-end" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>🗄️ Database & Cloud</b>
-    </td>
+    <td align="center"><b>🗄️ Database & Cloud</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
+      <img height="40" src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" alt="Database" />
+      <img src="https://img.shields.io/badge/-Neon-0d1117?style=for-the-badge&logo=neon&logoColor=00E599" height="28" alt="Neon" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>📋 Gestão & Ágil</b>
-    </td>
+    <td align="center"><b>📋 Gestão & Ágil</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenProject-006B8F?style=for-the-badge&logo=openproject&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Linear-0d1117?style=for-the-badge&logo=linear&logoColor=5E6AD2" height="28" alt="Linear" />
+      <img src="https://img.shields.io/badge/-OpenProject-0d1117?style=for-the-badge&logo=openproject&logoColor=1A67A3" height="28" alt="OpenProject" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>🛠️ Dev Tools & SO</b>
-    </td>
+    <td align="center"><b>🧰 Dev Tools & SO</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <img height="40" src="https://skillicons.dev/icons?i=docker,linux,git,vscode&theme=dark" alt="Dev Tools" />
     </td>
   </tr>
 </table>
 
-###
+<h2 align="center">📊 GitHub Stats</h2>
 
-<h3 align="center">🔥 My Stats</h3>
+<p align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jftigre&theme=github_dark" alt="Profile Details" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jftigre&theme=github_dark" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jftigre&theme=dark&hide_border=false&border_radius=5" height="170" alt="streak graph" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jftigre&theme=dark&background=0d1117&ring=2eff00&fire=2eff00&currStreakLabel=2eff00&border=2eff00&hide_border=false&border_radius=5" height="170" alt="Streak" />
+</p>
 
-</div>
+<h2 align="center">🌐 Redes sociais</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaofelipefiaritigre/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="32" alt="LinkedIn" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2eff00,100:000000&height=140&section=footer&text=Obrigado%20pela%20visita!&fontSize=22&fontColor=ffffff&fontAlignY=70" alt="Rodapé" />
